@@ -9,6 +9,9 @@
   background-color: red;
 }
 
+.field__input {
+    border-radius: 18px !important;
+}
 
 
 
