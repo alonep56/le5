@@ -8,9 +8,9 @@ jobs:
       - uses: actions/checkout@v2
       - name: Theme Check
         uses: shopify/theme-check-action@v1
-    web-deploy:
+  web-deploy:
     name: 🎉 Deploy
     runs-on: ubuntu-latest
     steps:
-    - name: 🚚 Get latest code
-      uses: actions/checkout@v3
+      - name: 🚚 Get latest code
+        uses: actions/checkout@v3
