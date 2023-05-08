@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
+
+
+.hello-container-test {
+  @apply text-4xl;
+  display: flex;
+  justify-content: center;
+  background-color: red;
+}
+
+
+
+
 @tailwind utilities;
