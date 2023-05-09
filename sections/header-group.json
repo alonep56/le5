@@ -8,7 +8,7 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Welcome to our store",
+            "text": "Livraison offerte des 40€ d'achats",
             "link": ""
           }
         }
@@ -17,6 +17,10 @@
         "announcement-bar-0"
       ],
       "settings": {
+        "color_scheme": "accent-1",
+        "show_line_separator": true,
+        "auto_rotate": false,
+        "change_slides_speed": 5
       }
     },
     "header": {
